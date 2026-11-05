@@ -4,7 +4,7 @@ title: Ostoslista – tietosuojaseloste / Privacy Policy
 
 # Ostoslista – tietosuojaseloste
 
-Voimassa 6.11.2026 alkaen. [English version below](#ostoslista--privacy-policy).
+Voimassa 5.11.2026 alkaen. [English version below](#ostoslista--privacy-policy).
 
 ## 1. Soveltamisala
 Tämä seloste koskee Ostoslista-sovellusta iPhonelle ja iPadille, sen kaikkia versioita ja kaikkia käyttäjiä, myös TestFlight-testaajia.
@@ -69,7 +69,7 @@ Selostetta voidaan päivittää sovelluksen muuttuessa. Voimassa oleva versio on
 
 # Ostoslista – Privacy Policy
 
-Effective 6 November 2026.
+Effective 5 November 2026.
 
 ## 1. Scope
 This policy applies to the Ostoslista app for iPhone and iPad, to all of its versions and to all of its users, including TestFlight testers.
